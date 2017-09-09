@@ -3,13 +3,9 @@
  
 ## Group: Guilherme Bertelli, Tomaz Filgueira Nunes
 
-# Objetivos
+# Objectives
 This first project of the module EEC2006 – TÓPICOS ESPECIAS F – FUNDAMENTOS DE CIÊNCIAS DOS DADOS has the goal of exercising and fixating the application of introductory Data Science know-how, such as development platforms  (Anaconda, Jupyter, Github) and Python applied to data mining using NumPy and Pandas libraries.
 That was accomplished by analysing the crime data of Montgomery County, in the state of Maryland - USA. The dataset has been investigated in order to find information about time, location and types of crimes. The following sections will dig more deeply in the data analysis, explaining the methods, codes and libraries used, as well as presenting conclusions reached with the study.
-   
-   
-# Objectives
-In this work we have analyzed the data of Montgomery County, in the state of Maryland - USA. The dataset has been analyzed in different ways such as time, location, types of crimes and combined analysis.
 
 # 1. Time Analyzis
 ## 1.1 Comparison "Dispatch Date / Time" and Start/End Time
